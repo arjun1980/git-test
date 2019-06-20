@@ -10,3 +10,5 @@ This program is developed in   Laravel
 ##  Deployment
 
 The application can be deployed on any Apache server
+
+This is being added directly on Github
