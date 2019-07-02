@@ -7,7 +7,6 @@
 
 <body>
 Another file
-<<<<<<< HEAD
 
 <?php
 
