@@ -15,7 +15,6 @@ echo "Another file";
 
 ?>
 
-=======
->>>>>>> simple-changes
+
 </body>
 </html>
