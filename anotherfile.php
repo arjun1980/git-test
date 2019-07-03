@@ -11,6 +11,8 @@ Another file
 <?php
 
 echo "Another file";
+echo "STASH ENTRY 4";
+
 
 ?>
 
