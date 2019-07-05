@@ -12,6 +12,10 @@ Another file
 
 echo "Another file";
 echo "STASH ENTRY 4";
+echo "Tagging Example";
+
+
+
 
 
 ?>
